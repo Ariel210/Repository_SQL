@@ -1,0 +1,8 @@
+Definicion
+        Subconjunto de SQL que se ocupa de inserccion, actualizacion y eliminacion de datos en tablas.
+
+-----------------------------------------------------------------------------------------------
+
+Comandos
+INSERT INTO nombre_tabla (nombre_columna, nombre_columna, nombre_columna) VALUES ('VALUES1', 'VALUES2','VALUES3')
+Inserta datos en una o mas tablas que haya. 
