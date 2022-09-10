@@ -1,2 +1,3 @@
-Comandos           |        Descripcion                 
-SHOW DATABASES;    |     Detalle del total del bases de datos
+Comandos                |                    Descripcion                 
+SHOW DATABASES;         |                Detalle del total del bases de datos
+CREATE DATABASE nombre_base_datos;	     Crear bases de datos
