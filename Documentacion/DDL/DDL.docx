@@ -1,3 +1,8 @@
-Comandos                |                    Descripcion                 
-SHOW DATABASES;         |                Detalle del total del bases de datos
+Comandos                    |                    Descripcion                 
+SHOW DATABASES;             |                Detalle del total del bases de datos
 CREATE DATABASE nombre_base_datos;	     Crear bases de datos
+USE nombre_base_datos;	    |						Usa/Ingresa a la base de datos
+DROP DATABASE nombre_base_datos;	|    Dropea/Borra estructura y data de base de datos
+
+SHOW TABLES;				|           Muestra las tablas existentes en la base de datos
+
