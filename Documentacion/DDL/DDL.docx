@@ -6,3 +6,13 @@ DROP DATABASE nombre_base_datos;	|    Dropea/Borra estructura y data de base de 
 
 SHOW TABLES;				|           Muestra las tablas existentes en la base de datos
 
+-----------------------------------------------------------------------------------------
+Alter
+ALTER TABLE 'nombre_tabla'			|			Agrega columna 
+ADD 'column - tipo de dato'
+
+ALTER TABLE 'nombre_tabla'			|			Dropea/Borra columna de tabla
+DROP COLUMN 'nombre_columna'
+
+
+
